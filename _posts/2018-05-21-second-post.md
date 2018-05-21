@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "second test post"
-date: 2018-05-121
+date: 2018-05-21
 blurb: This is the blurb of the second test post.
 author: Eric Bunch
 ---
