@@ -1,4 +1,7 @@
 name: Eric Bunch
 markdown: kramdown
+plugins:
+  - jekyll-paginate
+
 permalink: /blog/:title
 paginate: 3
