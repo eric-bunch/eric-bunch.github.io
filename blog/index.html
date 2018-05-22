@@ -11,7 +11,7 @@ title: Eric Bunch's Blog
 <!--             <small>Secondary Text</small> -->
           </h1>
 	
-	{% for post in paginator.posts %}
+	{% for post in site.posts %}
 	<!-- Blog Post -->
           <div class="card mb-4">
             <div class="card-body">
@@ -27,20 +27,16 @@ title: Eric Bunch's Blog
 	{% endfor %}
 		
           <!-- Pagination -->
-          <ul class="pagination justify-content-center mb-4">
-            {% if paginator.previous_page %}
+<!--           <ul class="pagination justify-content-center mb-4">
             <li class="page-item">
-              <a class="page-link" href="{{paginator.previous_page_path}}">&larr; Older</a>
+              <a class="page-link" href="#">&larr; Older</a>
             </li>
-			{% endif %}
-			{% if paginator.next_page %}
 			  <li class="page-item disabled">
-              <a class="page-link" href="{{ paginator.next_page_path }}">Newer &rarr;</a>
+              <a class="page-link" href="#">Newer &rarr;</a>
             </li>
-			{% endif %}
 			  
 			  
-          </ul>
+          </ul> -->
 
         </div>
 
