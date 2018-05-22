@@ -1,3 +1,4 @@
 name: Eric Bunch
 markdown: kramdown
 permalink: /blog/:title
+paginate: 3
