@@ -5,17 +5,17 @@ title: Eric Bunch's Blog
 
 
 <!-- Blog Entries Column -->
-        <div class="col-md-8">
+        <div class="col-md-10">
 
           <h1 class="my-4">Eric Bunch's Blog
 <!--             <small>Secondary Text</small> -->
           </h1>
-	
-	{% for post in site.posts %}
-	<!-- Blog Post -->
+
+  {% for post in site.posts %}
+  <!-- Blog Post -->
           <div class="card mb-4">
             <div class="card-body">
-              <h2 class="card-title">{{post.title}}</h2>
+              <h2 class="card-title"><a href='{{post.url}}'>{{post.title}}</a></h2>
               <p class="card-text">{{post.blurb}}</p>
               <a href="{{post.url}}" title="{{post.title}}" class="btn btn-primary">Read More &rarr;</a>
             </div>
@@ -24,18 +24,18 @@ title: Eric Bunch's Blog
               {{post.author}}
             </div>
           </div>
-	{% endfor %}
-		
+  {% endfor %}
+
           <!-- Pagination -->
 <!--           <ul class="pagination justify-content-center mb-4">
             <li class="page-item">
               <a class="page-link" href="#">&larr; Older</a>
             </li>
-			  <li class="page-item disabled">
+        <li class="page-item disabled">
               <a class="page-link" href="#">Newer &rarr;</a>
             </li>
-			  
-			  
+
+
           </ul> -->
 
         </div>

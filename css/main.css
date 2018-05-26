@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 60px auto;
     width: 70%;
 }
@@ -33,11 +33,29 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+} */
+
+.card-title a{
+  color: black;
+}
+
+.card-title a:hover{
+  text-decoration: none;
+  color: #bdbebf;
+}
+
+.meetme a{
+  color: black;
+}
+
+.meetme a:hover{
+  text-decoration: none;
+  color: #bdbebf;
 }
