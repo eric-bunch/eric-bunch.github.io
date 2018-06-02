@@ -7,8 +7,6 @@ author: Eric Bunch
 ---
 
 
-# Calculating Homology of a Simplicial Complex Using Smith Normal Form
-
 In this post, we will detail how to compute homology groups for a simplicial complex. Simplicial complexes are a nice subclass of topological spaces that are more easily described algebraically than general topological spaces. The notion behind homology is to algebraically compute the number of n-dimensional holes in the space.
 
 ## Algebraic Topology
