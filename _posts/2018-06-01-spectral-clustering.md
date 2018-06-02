@@ -33,7 +33,13 @@ Speak here about importance of assumptions of kmeans clustering.
 
 ## Eigenvalue Decomposition
 
+For a square $n\times n$ matrix $M$, with $n$ linearly independent eigenvectors, we can find a factorization of $M$ as
 
+$$
+M = UDU^{-1}
+$$
+
+Where $D$ is the diagonal matrix of eigenvalues of $M$. The $i^{th}$ column of $U$, ${\bf u_i}$ is the eigenvector corresponding to the $d_{i,i}$ entry of $D$. 
 
 ## Adjacency Matrix and Laplacian
 
