@@ -2,7 +2,7 @@
 layout: post
 title: "Cython Examples: Random Sampling and Latent Dirichlet Allocation"
 date: 2019-08-17
-blurb: Python is great, but sometimes is too slow for my needs. In this post, we will walk through how to get up and running with Cython, and go through some examples including how to perform fast random sampling (even faster than numpy in some cases!) and will show how to implement the collapsed Gibbs sampler for  Latent Dirichlet Allocation.
+blurb: Python is great, but sometimes is too slow for my needs. In this post, we will walk through how to get up and running with Cython, and go through some examples including how to perform fast random sampling--even faster than numpy in some cases!--and will show how to implement the collapsed Gibbs sampler for  Latent Dirichlet Allocation.
 author: Eric Bunch
 ---
 
