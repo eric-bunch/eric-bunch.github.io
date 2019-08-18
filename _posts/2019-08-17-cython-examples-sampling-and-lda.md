@@ -909,21 +909,6 @@ cpdef fit_2_(
         return f'Exception in fit: {e}'
 ```
 
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:21:22: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:48:22: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:49:22: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:50:22: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:53:23: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:54:23: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:55:22: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:61:36: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:61:56: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:61:74: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:62:28: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:69:18: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:72:23: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:73:23: Use boundscheck(False) for faster access
-    warning: /Users/EAB043/.ipython/cython/_cython_magic_779e535adb95d96b664f8e8fda44bdc5.pyx:74:22: Use boundscheck(False) for faster access
 
 
 
