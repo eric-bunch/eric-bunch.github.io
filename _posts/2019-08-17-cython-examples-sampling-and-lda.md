@@ -42,7 +42,7 @@ or
 
 `conda install cython`
 
-**For C/C++ compiler (on Mac)**:
+**For C/C++ compiler on Mac**:
 
 A little hairy. First, install Apple's Xcode: `xcode-select --install`.
 
@@ -88,7 +88,7 @@ def sum_cy1(x):
 
 
 
-<img src='/images/sum_cy1_profile.png' width=800>
+<img src="/images/sum_cy1_profile.png" width=800>
 
 
 
