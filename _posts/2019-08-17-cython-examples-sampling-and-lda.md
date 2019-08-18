@@ -88,7 +88,7 @@ def sum_cy1(x):
 
 
 
-<img src="/images/sum_cy1_profile.png" width=800>
+<img src="/images/sum_cy1_profile.png" style="width: 70%">
 
 
 
