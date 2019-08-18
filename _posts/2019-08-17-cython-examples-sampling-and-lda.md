@@ -47,7 +47,7 @@ or
 A little hairy. First, install Apple's Xcode: `xcode-select --install`.
 
 For recent versions of MacOs, we need to do the following from this comment to a stackoverflow question https://stackoverflow.com/questions/52509602/cant-compile-c-program-on-a-mac-after-upgrade-to-mojave:
-<img src='/images/xcode_comment.png' width=800>
+<img src="/images/xcode_comment.png" style="width: 70%">
 
 
 # Cython in a notebook
@@ -127,7 +127,7 @@ cpdef int sum_cy2(int x):
 ```
 
 
-<img src='/images/sum_cy2_profile.png' width=800>
+<img src="/images/sum_cy2_profile.png" style="width: 70%">
 
 
 
@@ -269,7 +269,7 @@ cpdef sample_cy(
 ```
 
 
-<img src='/images/sample_cy_profile.png' width=800>
+<img src="/images/sample_cy_profile.png" style="width: 70%">
 
 
 
@@ -354,7 +354,7 @@ cpdef sample_cy_2(
 
 
 
-<img src='/images/sample_cy2_profile.png' width=800>
+<img src="/images/sample_cy2_profile.png" style="width: 70%">
 
 
 
